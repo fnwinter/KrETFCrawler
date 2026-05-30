@@ -5,8 +5,8 @@ import pandas as pd
 from io import StringIO
 
 SCRIPT_DIR = Path(__file__).parent
-ETF_DATA_DIR = SCRIPT_DIR / "../etf_data"
-ETF_LABEL_DATA_DIR = SCRIPT_DIR / "../label_data"
+ETF_DATA_DIR = SCRIPT_DIR / "../docs/etf_data"
+ETF_LABEL_DATA_DIR = SCRIPT_DIR / "../docs/label_data"
 
 def fetch_daily_prices(code: str = "360750", page: int = 1) -> pd.DataFrame:
     """
