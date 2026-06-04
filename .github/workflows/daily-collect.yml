@@ -30,6 +30,7 @@ jobs:
         run: |
           python script/etf_list.py
           python script/update_etfs.py
+          python script/etf_keyword.py
 
       - name: Commit and push changes
         run: |
