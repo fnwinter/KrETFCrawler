@@ -25,7 +25,7 @@ docs/
 | `etf_keyword_cloud.png` | ETF 이름 키워드 워드클라우드 이미지 |
 
 - `etf_list.csv`는 `script/etf_list.py`로 네이버 금융 API에서 수집합니다.
-- 워드클라우드는 `script/keyword.py`로 생성합니다.
+- 워드클라우드는 `script/etf_keyword.py`로 생성합니다.
 
 ### `docs/etf_data/`
 
