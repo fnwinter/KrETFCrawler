@@ -37,7 +37,6 @@ Code,Name
 0026S0,1Q 미국S&P500
 0028X0,KODEX 미국금융테크액티브
 0035T0,PLUS 글로벌휴머노이드로봇액티브
-0036D0,TIME 미국배당다우존스액티브
 0036R0,RISE 미국휴머노이드로봇
 0036Z0,RISE 미국천연가스밸류체인
 0038A0,KODEX 미국휴머노이드로봇
@@ -202,7 +201,7 @@ Code,Name
 0172Y0,ACE K수출핵심TOP10산업액티브
 0173Y0,KODEX 미국AI광통신네트워크
 0174B0,KoAct 글로벌AI메모리반도체액티브
-0174J0,DAISHIN343 오피스리츠플러스
+0174J0,DAISHIN 오피스리츠플러스
 0174R0,KIWOOM 미국성장다우존스
 0176E0,RISE 미국AI전력인프라액티브
 0176P0,FOCUS AI반도체위클리고정커버드콜
@@ -226,7 +225,7 @@ Code,Name
 0186L0,KoAct 미국로봇피지컬AI액티브
 0186S0,1Q 코스닥150채권혼합50액티브
 0189B0,TIGER 은액티브
-0189Z0,DAISHIN343 금융&지주고배당
+0189Z0,DAISHIN 금융&지주고배당
 0190C0,RISE 현대차고정피지컬AI
 0190G0,KODEX 반도체타겟위클리커버드콜
 0190M0,KIWOOM 미국AI테크하이베타
@@ -806,7 +805,7 @@ Code,Name
 433980,KODEX TDF2040액티브 적격
 434060,KODEX TDF2050액티브 적격
 434730,HANARO 원자력iSelect
-434960,DAISHIN343 K200
+434960,DAISHIN K200
 435040,ACE 글로벌브랜드TOP10
 435420,TIGER 미국나스닥100채권혼합50
 435530,KIWOOM TDF2030액티브 적격
@@ -1074,7 +1073,7 @@ Code,Name
 485540,KODEX 미국AI테크TOP10
 485690,RISE 미국AI밸류체인TOP3Plus
 485810,TIME 글로벌바이오액티브
-486240,DAISHIN343 AI반도체&인프라액티브
+486240,DAISHIN AI반도체&인프라액티브
 486290,TIGER 미국나스닥100타겟데일리커버드콜
 486450,SOL 미국AI전력인프라
 486830,HANARO 머니마켓액티브
